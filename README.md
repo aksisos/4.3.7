@@ -1,1 +1,1 @@
-# 4.3.7
+{"user":{"username":"aksios","email":"aksios@mail.ru","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyMzViOTJjZmQyMTFjMjEwMGRiMmJhOCIsInVzZXJuYW1lIjoiYWtzaW9zIiwiZXhwIjoxNjUyODcyMTU2LCJpYXQiOjE2NDc2ODgxNTZ9.cN9y20L-vGV15rfIcjZmK1SIYaNUgIyaXBQ31I4SkJk"}}
